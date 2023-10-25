@@ -1,0 +1,231 @@
+/*This website was created by: Rachel Jacques on Wednesday, July 26-2023*/
+body {
+  background-color: #00004c;
+  width: 99%;
+}
+
+/*Style navigation stays on the top of the page*/
+
+#container {
+  width: 97%;
+  background-color: #ffffff;
+  margin-left: 1em;
+  margin-right: 5em;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+#outerwrapper {
+  width: 97%;
+  background-color: #00004c;
+  margin-left: 2em;
+  margin-right: 4em;
+}
+
+equip {
+  background-color: #00004c;
+  border: 4px solid #00004c;
+  white-space: normal;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+
+img {
+  background-color: blue;
+  border: 3px solid #000000;
+  margin-left: 3em;
+  margin-right: 2em;
+}
+
+ul {
+  font-style: italic;
+  font-weight: bold;
+  color: #00004c;
+}
+
+summary {
+  color: #ffffff;
+}
+
+li {
+  color: #00004c;
+}
+
+a {
+  text-align: center;
+  color: #00004c;
+}
+
+p {
+  text-align: center;
+  color: #ffffff;
+}
+
+
+
+
+span {
+  text-align: center;
+}
+
+header {
+  text-align: center;
+  display: block;
+  background-color: #505050;
+  margin-left: -7em;
+  margin-right: -5em;
+  padding-left: 3em;
+  border: 7px solid #000000;
+}
+
+equip {
+  border: 3px solid #00004c;
+  float: right;
+  text-align: center;
+}
+
+main {
+  display: block;
+  background-color: #d0d0d0;
+  border-color: blue;
+  box-shadow: 5px 10px #00004c;
+  width: 97%;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 3px;
+}
+
+main p {
+  display: block;
+  background-color: #00004c;
+  color: #00004c;
+}
+
+/*Style rules for a pseudo-classes*/
+nav li a:link {
+  color: #ffffff;
+}
+
+nav li a:visited {
+  color: #ffffff;
+}
+
+nav li a:hover {
+  color: #00004c;
+}
+
+nav li a:active {
+  color: #ffffff;
+}
+
+h1 {
+  color: 00004c;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+  text-shadow: 2px 2px #ffffff;
+}
+
+h2 class {
+  text-decoration: underline;
+}
+
+class {
+  text-decoration: underline;
+}
+
+title {
+  text-decoration: underline;
+}
+
+h2 {
+  text-align: center;
+  color: #ffffff;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+  text-shadow: 3px 3px pink;
+}
+
+h3 {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  color: #ffffff;
+}
+
+figure img {
+  background-color: #696969;
+  display: inline;
+  max-width: 33%;
+  margin-left: 6em;
+  margin-right: 6em;
+  padding-left: 1%;
+  box-shadow: 4px 10px #ffffff;
+}
+
+figure img:hover {
+  height: 11em;
+  opacity: 1;
+}
+
+section {
+  padding-bottom: 3em;
+}
+
+
+section a {
+  background-color: #e0e0e0;
+  color: #9e1f32;
+  font-weight: normal;
+  padding: 0;
+  text-decoration: underline;
+}
+
+section {
+  color: #00004c;
+  margin-left: 1em;
+  padding-bottom: 5em;
+}
+
+aside {
+  font-style: italic;
+}
+
+article {
+  background-color: #e0e0e0;
+  float: left;
+  margin: 0.5%;
+  padding: 0.5%;
+  text-align: center;
+  width: 29%;
+  border-color: #00004c;
+  color: #6495ed;
+  font-weight: bold;
+  border-width: 3px;
+}
+
+main article {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  color: #5d76a9;
+}
+
+main article img {
+  border: 2px solid #e0e0e0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main article ol {
+  text-align: left;
+}
+
+main article ul {
+  text-align: left;
+}
